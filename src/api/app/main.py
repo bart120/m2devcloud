@@ -1,10 +1,21 @@
 from fastapi import FastAPI
+from .routes_jobs import router as jobs_router
 
-app = FastAPI()
+app = FastAPI(title="Doc processing API")
 
-@app.get("/")
-def root():
-    return {"message": "API fonctionne"}
+app.include_router(jobs_router)
+
+
+@app.get("/health")
+def health():
+    return {"status":"ok"}
+
+
+
+
+#@app.get("/")
+#def root():
+#    return {"message": "API fonctionne"}
 
 # pip install fastapi uvicorn[standard] 
  #   azure-cosmos pydantic-settings python-dotenv
