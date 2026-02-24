@@ -17,8 +17,7 @@ def health():
 #def root():
 #    return {"message": "API fonctionne"}
 
-# pip install fastapi uvicorn[standard] 
- #   azure-cosmos pydantic-settings python-dotenv
+# pip install fastapi uvicorn[standard] azure-cosmos pydantic-settings python-dotenv
 
 
  # python -m uvicorn app.main:app --reload
