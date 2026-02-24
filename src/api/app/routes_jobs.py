@@ -17,7 +17,7 @@ def create_job(req:JobCreateRequest):
     
     return JobCreateResponse(jobId=entity["id"], status=entity["status"], createdAt=entity["createdAt"])
 
-@router.get("/{job_id}")
+@router.get("/{job_id}", summary="Récupérer un job par ID", description="Récupérer un job complet par ID. 404 si il n'existe pas.")
 def get_job(job_id: str):
     container = get_cosmos_container()
     try:
