@@ -19,7 +19,7 @@ function App() {
       setLoading(true);
       setMessage("");
 
-      const initResponse = await api.post("/jobs/init", {
+      const initResponse = await api.post("/jobs", {
         fileName: file.name,
         contentType: file.type || "application/octet-stream",
       });
