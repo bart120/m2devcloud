@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - "src/web/**"
+      - ".github/workflows/azure-static-web-apps-mango-field-0315d9403.yml"
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
