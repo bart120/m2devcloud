@@ -20,7 +20,7 @@ def create_job(req:JobCreateRequest):
 
     upload_url = generate_upload_sas(blob_path)
 
-    return JobCreateResponse(jobId=entity["id"], status=entity["status"], createdAt=entity["createdAt"], uploadUrl = upload_url)
+    return JobCreateResponse(jobId=entity["id"], status=entity["status"], createdAt=entity["createdAt"], uploadUrl = upload_url, category="")
 
 
 @router.get("/{job_id}", summary="Récupérer un job par ID", description="Récupérer un job complet par ID. 404 si il n'existe pas.")
