@@ -350,25 +350,30 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 10 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
-- 
-- 
-- 
--
--
--
--
--
--
-
+- Wilfrid Salles Otta / Florian Techer
+- BERJONNEAU Remy / GRARE Thomas 
+- Lynsey TANCELIN / Aimery GARCIA
+- BEN HASSINE Alley-eddine / SALVATI Enzo
+- SAINTEMARIE Noémie / SABOUNDJIAN Illona
+- Jenny Choufack Ngoufo / Neha Mushtaq
+- Coranthin ETHEVE / François-Alexian LOPES
+- Marcelin TINGOUGOUI / Hansly AGBAMAT
+- MERAHI Sid Ali / BOUAKLINE Othmane
+- ibtissam EL HANY / Hardi TABUNA
+- LOUM Mohamed / MOUTAOUAKEL Yassine
 
 Les horaires de passage des groupes sont les suivants:
-- 12h00 =>
-- 12h15 =>
-- 12h30 =>
-- 12h45 =>
-- 13h00 =>
-- 14h15 =>
-- 14h30 => 
-- 15h45 => 
-- 16h00 => 
-- 16h15 =>
+
+| Horaire | Groupe                                    |
+| ------- | ----------------------------------------- |
+| 11h45   | Coranthin ETHEVE / François-Alexian LOPES |
+| 12h00   | BEN HASSINE Alley-eddine / SALVATI Enzo   |
+| 12h15   | Jenny Choufack Ngoufo / Neha Mushtaq      |
+| 12h30   | Wilfrid Salles Otta / Florian Techer      |
+| 12h45   | MERAHI Sid Ali / BOUAKLINE Othmane        |
+| 13h00   | SAINTEMARIE Noémie / SABOUNDJIAN Illona   |
+| 14h15   | BERJONNEAU Remy / GRARE Thomas            |
+| 14h30   | LOUM Mohamed / MOUTAOUAKEL Yassine        |
+| 15h45   | Lynsey TANCELIN / Aimery GARCIA           |
+| 16h00   | Marcelin TINGOUGOUI / Hansly AGBAMAT      |
+| 16h15   | ibtissam EL HANY / Hardi TABUNA           |
