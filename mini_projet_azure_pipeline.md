@@ -235,7 +235,7 @@ Le pipeline doit contenir au minimum :
 
 ---
 
-## 🔐 Variables GitLab CI/CD attendues
+## Variables GitLab CI/CD attendues
 
 À configurer dans GitLab :
 
